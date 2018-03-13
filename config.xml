@@ -2,13 +2,13 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "ph.gov.bsp.bspi.bspimobile"
         versionCode = "20220"
         version   = "3.4.1">
-    <name>Moodle Mobile</name>
+    <name>BSPI LMS</name>
 
     <description>
-        Moodle Mobile official app
+        BSPI LMS Official Mobile App
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">

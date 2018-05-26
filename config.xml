@@ -2,10 +2,10 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "ph.gov.bsp.bspi.bspimobile"
+        id        = "ph.gov.bsp.bspi.ilearn"
         versionCode = "20220"
         version   = "3.4.1">
-    <name>BSPI LMS</name>
+    <name>BSPI iLearn</name>
 
     <description>
         BSPI LMS Official Mobile App

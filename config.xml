@@ -5,10 +5,10 @@
         id        = "ph.gov.bsp.bspi.ilearn"
         versionCode = "20220"
         version   = "3.4.1">
-    <name>BSPI iLearn</name>
+    <name>BSP iLearn</name>
 
     <description>
-        BSPI LMS Official Mobile App
+        BSP iLearn Official Mobile App
     </description>
 
     <author href="http://www.bsp.gov.ph/" email="dpulumbarit@bsp.gov.ph">

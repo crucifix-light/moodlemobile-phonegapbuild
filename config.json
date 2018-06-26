@@ -18,5 +18,5 @@
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "demo_sites": [],
-    "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
+    "privacypolicy": "https://moodle.org/admin/tool/policy/view.php?policyid=1"
 }

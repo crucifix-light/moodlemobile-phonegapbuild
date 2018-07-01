@@ -3,7 +3,7 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "ph.gov.bsp.bspi.ilearn"
-        versionCode = "20220"
+        versionCode = "20221"
         version   = "3.4.1">
     <name>BSP iLearn</name>
 
